@@ -1,6 +1,6 @@
-###Servo Simulator
+### Servo Simulator
 
-##A prototype for position-controlled servo-mechanism implemented on different types of DC motor models using a PID controller
+## A prototype for position-controlled servo-mechanism implemented on different types of DC motor models using a PID controller
 
 * _servo_simulator.pdf_ - Documentation for the prototype
 * _servo_simulator.py_ - Contains the PID controller and simulates the servo joint motion. 
@@ -10,7 +10,7 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6f2kRp-R3vs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-##Usage
+## Usage
 
 Command to Run in Terminal:
 
@@ -24,6 +24,6 @@ Armature Controlled Motor Model		:	`'armc'`	(Default)
 
 * _initial angular position_			:	float value between 0- 90 degrees - Optional Input
 
-##Author
+## Author
 
 * Akshay Kumar - akumar5@wpi.edu
